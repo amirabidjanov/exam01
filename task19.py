@@ -1,0 +1,7 @@
+text = str(input('ball kiriting:'))
+hisob1 = text.count('a')
+hisob2 = text.count('o')
+hisob3 = text.count('e')
+hisob4 = text.count('i')
+hisob5 = text.count('u')
+print('a:', hisob1,'o:', hisob2,'e:', hisob3,'i:', hisob4,'u:', hisob5 ) 
